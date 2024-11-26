@@ -22,12 +22,14 @@ Neha / Yeddanapalli
     * The Convolutional Neural Network (CNN) is built with multiple convolutional layers followed by max-pooling layers, extracting hierarchical spatial features from the input data.
     * The model is trained using categorical cross-entropy loss and the Adam optimizer, with validation splits to monitor performance and avoid overfitting.
     * Using K-Fold cross-validation, the data is split into training, validation, and testing sets for each fold. The model's performance is evaluated based on metrics like accuracy and loss.
-    * The confusion matrices are generated to visualize classification results for seizure and non-seizure signals.
+    * The confusion matrices are generated to visualize classification results for seizure and non-seizure signals.  
       
-* **Results:** The proposed methodology was evaluated using a dataset consisting of seizure and non-seizure EEG signals, focusing on the model's ability to accurately classify the signals and generalize across multiple folds. The results highlight the effectiveness of the model in leveraging CNN-based architectures for feature extraction and classification.
-*  ***Key observations from the evaluation include:***
+* **Code:** https://colab.research.google.com/drive/1nMVeh5WpIxEregjr0duQXZTk7Tt-EPPd?usp=sharing
+  
+*  **Results:** The proposed methodology was evaluated using a dataset consisting of seizure and non-seizure EEG signals, focusing on the model's ability to accurately classify the signals and generalize across multiple folds. The results highlight the effectiveness of the model in leveraging CNN-based architectures for feature extraction and classification.
+* Key observations from the evaluation include:
 * Strengths of the Model:The model successfully distinguishes between seizure and non-seizure signals with a classification accuracy of 78.94%.This model outperforms traditional machine learning models (e.g., SVM, Random Forest) by learning hierarchical features directly from raw EEG data and leveraging spatial correlations through 2D-CNNs. However, it lacks advanced mechanisms like temporal sequence modeling (RNNs/LSTMs) or attention layers found in more sophisticated EEG classification architectures.
 * Limitations:This model lacks the attention mechanism and also this model lacks temporal modeling.The classification accuracy could be further improved by extending training duration and utilizing a more diverse dataset.
 
 
-* Poster 
+* Poster:
