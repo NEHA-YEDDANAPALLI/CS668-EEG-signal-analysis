@@ -33,4 +33,4 @@ Neha / Yeddanapalli
 
 
 * Poster:
-![image](https://github.com/user-attachments/assets/80aa842a-f3ec-43cd-a581-bc58d231c9a3)
+![image]https://docs.google.com/presentation/d/1iKoiu6N_mlNEhnZ7m0LoG0ae067FMIKA/edit?usp=sharing&ouid=115160020651604897790&rtpof=true&sd=true
