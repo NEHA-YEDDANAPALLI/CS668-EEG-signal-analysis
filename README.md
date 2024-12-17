@@ -33,6 +33,7 @@ Neha / Yeddanapalli
 
 
 * Poster:
-![p0ster](https://github.com/user-attachments/assets/abb59412-814e-42f4-b68a-5b08cda7ed97)
+![p0ster pptx](https://github.com/user-attachments/assets/2864e5e2-3c4f-474d-96eb-43db69e4fc5c)
+
 
 
